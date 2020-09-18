@@ -7,6 +7,7 @@ Nesse desafio foi desenvolvido um projeto de “APIs para Gestão de Produtos ut
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuechatapp_swa-github-gllemos)**
 * **[Node.Js](https://nodejs.org/en/)**
+* **[Javascript](https://www.javascript.com/)**
 * **[MongoDB](https://www.mongodb.com/)**
 * **[Azure Functions](https://azure.microsoft.com/pt-br/)**
 
