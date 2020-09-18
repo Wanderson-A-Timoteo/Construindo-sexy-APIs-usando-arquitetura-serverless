@@ -12,3 +12,8 @@ Inicializa uma nova função
 > npm i mongodb
 
 ```
+
+## Inicializar o serverless 
+```
+func host start
+```

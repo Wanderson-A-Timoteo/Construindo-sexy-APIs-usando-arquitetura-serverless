@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
 const config = {
-    url: 'mongodb+srv://god:dog@cluster0-dfsvs.mongodb.net/dgo?retryWrites=true&w=maj'
+    url: 'mongodb+srv://god:dog@cluster0-dfsvs.mongodb.net/dgo?retryWrites=true&w=majority',
 };
 
 module.exports = () => new Promise((resolve, reject) => {
