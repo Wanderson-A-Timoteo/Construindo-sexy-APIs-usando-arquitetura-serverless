@@ -31,7 +31,7 @@ cd "C:\Users\NomeDoComputador\Documents\clonedoprojeto"
 Depois, quando estiver na pasta do projeto, basta digitar no cmd a seguinte instrução: **(dentro da pasta do projeto clonado)**
 
 ```
-> npm install
+ npm install
 ```
 
 Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
@@ -43,7 +43,7 @@ Ao digitar a instrução acima, automaticamente ele irá baixar todas as depend�
 Bom, agora na mesma tela do cmd, basta iniciar o serverless para o projeto ser executado.
 
 ```
-> func host start
+ func host start
 ```
 
 
@@ -53,7 +53,7 @@ Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir um
 
 ## Autor:
 
-* [**Wanderson A. Timóteo**](https://wanderson.ga)
+* [**Wanderson A. Timóteo**](https://wanderson.tk)
 
 
 ## Licença
